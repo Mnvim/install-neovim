@@ -1,7 +1,7 @@
 ## Script bash para instalar neovim.
 Descargar scritp de instalación de neovim
 ```Bash
-git clone https://github.com/neovim/neovim
+wget https://raw.githubusercontent.com/Mnvim/install-neovim/refs/heads/main/install.sh
 ```
 
 ```Bash
